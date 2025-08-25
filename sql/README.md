@@ -81,3 +81,26 @@ Query results are visualized in this `README.md` using screenshots stored under 
 - Connect the cleaned SQL dataset to Power BI  
 - Create dashboards for regional analysis, product trends, and customer segmentation  
 - Add interactivity to compare profit vs sales across time and categories
+
+
+---
+
+## 📊 Insights Summary
+
+Below are the business insights derived from the three key SQL queries:
+
+### 🌍 Regional Performance
+- The **West** region outperforms all others in both sales and profitability.
+- The **South** region, while generating decent sales, lags behind in profit margins — potentially due to higher discount rates or lower product margins.
+
+### 🏆 Product Performance
+- **Technology products**, especially printers and phones, dominate sales rankings.
+- The **Canon imageCLASS 2200 Advanced Copier** stands out as the most profitable item by sales volume.
+- Sub-categories like **Phones**, **Chairs**, and **Storage** generate high revenue, suggesting they are strategic focus areas.
+
+### 💳 Customer Value
+- A small group of customers, led by **Sean Miller** and **Tamara Chand**, contribute disproportionately to overall sales.
+- These top customers could be targeted with loyalty programs or early product access to increase retention and upselling.
+
+---
+
