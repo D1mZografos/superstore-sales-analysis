@@ -90,7 +90,7 @@ The Power BI report includes:
 - Visual trends by time, product, and geography
 - Drill-down views for sales vs. profit by segment and shipping mode
 
-📁 See [`powerbi/README.md`](powerbi/README.md) for dashboard explanation.
+📁 See [`power_bi/README.md`](power_bi/README.md) for dashboard explanation.
 
 ---
 
